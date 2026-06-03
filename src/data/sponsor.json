@@ -26,7 +26,7 @@
   "theme": "dark",
   "colors": {
     "appBg": "#0b175e",
-    "appIconsBg": "#0819248b0210",
+    "appIconsBg": "#19248b",
     "splashBg": "linear-gradient(135deg, #19248b 0%, #19248b 50%, #19248b 100%)",
     "headerBg": "rgba(255, 255, 255)",
     "headerText": "#19248b",
